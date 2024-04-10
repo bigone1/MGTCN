@@ -1,1 +1,3 @@
+The file cancer_type.py contains modules for data loading, MGTCN model construction, parameter optimization, model training, and model testing for tumor type classification. It can be executed directly using the command python cancer_type.py.
 
+The files coad_early_late.py, esca_early_late.py, lihc_early_late.py, paad_early_late.py, read_early_late.py, and stad_early_late.py contain modules for data loading, MGTCN model construction, parameter optimization, model training, and model testing for early and late-stage tumor classification. They can be executed directly using the command python xxx.py.
